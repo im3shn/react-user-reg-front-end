@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://6533ab08f393d25c6d8771b5--singular-chebakia-953305.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
